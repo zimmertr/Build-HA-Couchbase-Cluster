@@ -4,7 +4,7 @@
 
 The two scripts can be used to provision a working highly available Couchbase Cluster with full SSL encryption between the nodes as well as an XDCR relationship with a secondary cluster.
 
-**Warning:** These scripts are not completed, and therefore cannot be simply ran. Pay attention to the comments within for instruction on how to use them. 
+**Warning:** These scripts are not completed, and therefore cannot be simply ran. Pay attention to the comments within for instruction on how to use them. At the very least, let it be guidance for you according to the many hours I spent discussing best practices with the Couchbase team for HA deployment with full encryption and an XDCR relationship.
 
 # Instructions
 
