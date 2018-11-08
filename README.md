@@ -1,4 +1,4 @@
-# Couchbase Deployment Scripts
+# Deploy Couchbase Cluster
 
 # Summary
 
