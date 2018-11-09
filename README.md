@@ -1,4 +1,4 @@
-# Deploy Couchbase Cluster
+# Build HA Couchbase Cluster
 
 # Summary
 
